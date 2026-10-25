@@ -1,0 +1,14 @@
+src/main/java/com/example/testproj/HelloController.java
+  h_6482a564b8bcc3 22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "869b97e527657b78635c64f53feceb9de9856ba8",
+  "prompts": {},
+  "humans": {
+    "h_6482a564b8bcc3": {
+      "author": "saurabh pal <saurabhpal@saurabhs-MacBook-Air.local>"
+    }
+  }
+}
