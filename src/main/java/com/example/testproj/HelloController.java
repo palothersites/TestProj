@@ -28,8 +28,19 @@ public class HelloController {
         return greeting + ", " + name + "!";
     }
 
+    @GetMapping("/bye")
+    public String bye(@RequestParam(defaultValue = "Friend") String name) {
+        return "Goodbye, " + name + "! See you soon.";
+    }
+
     @GetMapping("/health")
     public String health() {
         return "OK";
     }
+
+    @GetMapping("/bye-saurabh")
+    public String bye(@RequestParam(defaultValue = "pal") String name) {
+        return "Goodbye, " + name + "! See you saurabh pal.";
+    }
+    
 }
