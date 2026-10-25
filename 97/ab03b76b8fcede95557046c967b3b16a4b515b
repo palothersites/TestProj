@@ -1,0 +1,20 @@
+src/main/java/com/example/testproj/HelloController.java
+  s_606a6801e8a420::t_57811f1c374291 17-30
+  s_606a6801e8a420::t_f42bb6808cce33 7-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "97ab03b76b8fcede95557046c967b3b16a4b515b",
+  "prompts": {},
+  "sessions": {
+    "s_606a6801e8a420": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c8c80a1c-2802-4571-bffe-c2d702643b60",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "saurabh pal <saurabhpal@saurabhs-MacBook-Air.local>"
+    }
+  }
+}
