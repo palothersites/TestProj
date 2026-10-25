@@ -35,12 +35,12 @@ public class HelloController {
 
     @GetMapping("/health")
     public String health() {
-        return "OK";
+        return "OK - Service is running";
     }
 
     @GetMapping("/bye-saurabh")
     public String bye(@RequestParam(defaultValue = "pal") String name) {
-        return "Goodbye, " + name + "! See you saurabh pal.";
+        return "Goodbye, " + name + "! See you soon saurabh pal.";
     }
     
 }
